@@ -7,11 +7,11 @@ import java.util.Arrays;
 import java.util.List;
 
 @RestController
-public class HelloWorldController {
+public class MainController {
 
-    @GetMapping("hello")
-    public List<String> hello() {
+    @GetMapping("main")
+    public String hello() {
 
-        return Arrays.asList("안녕하세요.", "Hello");
+        return "main";
     }
 }
