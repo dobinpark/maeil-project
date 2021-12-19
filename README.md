@@ -1,4 +1,4 @@
-# Maeil-Project (매일 프로젝트)
+# 매일 프로젝트 (Maeil-Project)
 
 ## 기술 스택
 
