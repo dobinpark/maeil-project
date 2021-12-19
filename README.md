@@ -30,7 +30,7 @@
 
 ## 소스 관리
 
-<a href="javascript:void(0);"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" onclick="(function (e) {e.preventDefault()})(event)" style="pointer-events: none; cursor: default;"></a>
+<a href="#" onclick="(function (e) {e.preventDefault()})(event);"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" style="pointer-events: none; cursor: default;"></a>
 <a href="javascript:void(0);"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" style="pointer-events: none; cursor: default;"></a>
 
 <br />
