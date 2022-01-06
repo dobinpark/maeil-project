@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import { About, Home, Main } from '../pages';
-import Navbar from '../components/Navbar';
+import { Footer, Navbar } from '../components';
 
 export default function App() {
   return (
@@ -11,6 +11,7 @@ export default function App() {
         <Route path="/home" element={<Home />} />
         <Route path="/about" element={<About />} />
       </Routes>
+      <Footer />
     </>
   );
 }
