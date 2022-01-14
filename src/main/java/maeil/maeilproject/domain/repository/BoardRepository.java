@@ -1,7 +1,9 @@
-package maeil.maeilproject.board.domain.repository;
+package maeil.maeilproject.domain.repository;
 
-import maeil.maeilproject.board.domain.entity.BoardEntity;
+import maeil.maeilproject.domain.entity.BoardEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface BoardRepository extends JpaRepository<BoardEntity, Long> {
+
+
 }
